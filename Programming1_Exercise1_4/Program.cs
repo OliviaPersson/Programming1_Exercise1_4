@@ -22,6 +22,7 @@ namespace Programming1_Exercise1_4
 
 
             Console.WriteLine($"Det blir {farenheit} grader Farenheit." + "\n" + "Tryck på valfri tangent för att fortsätta...");
+
             Console.ReadKey();
 
 
